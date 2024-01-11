@@ -1,6 +1,6 @@
 # Experiments with eBPF and signals
 
-[Blog post about this research](https://www.elastic.co/security-labs/signaling-from-within-ebpf)
+[Blog post about this research](https://www.elastic.co/security-labs/signaling-from-within-how-ebpf-interacts-with-signals)
 
 This repository holds a series of scripts and mini programs that attempt to
 demonstrate "what happens if we use SIGKILL as a security mechanism". Primarily
